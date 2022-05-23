@@ -1,0 +1,14 @@
+{
+  "name": "crude-artillery-ship-graphics",
+  "version": "1.0.1",
+  "title": "Cargo Ships - Artillery Graphics",
+  "author": "Muppet9010",
+  "description": "Graphics for Cargo Ships - Artillery mod.",
+  "dependencies": [
+    "base >= 1.1",
+    "~ crude-artillery-ship >= 0.1.0",
+	"! cargo-ships-graphics"
+  ],
+  "factorio_version": "1.1",
+    "homepage": "https://mods.factorio.com/mod/crude-artillery-ship-graphics"
+}

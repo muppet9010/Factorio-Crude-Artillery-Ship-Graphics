@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2022-05-23
+  Features:
+    - Initial release based on fork of Cargo Ships Graphics 0.1.0.
